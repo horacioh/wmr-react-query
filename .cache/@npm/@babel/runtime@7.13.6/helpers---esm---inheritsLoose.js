@@ -1,0 +1,1 @@
+import t from"/@npm/@babel/runtime/helpers/setPrototypeOf";export default function(e,o){e.prototype=Object.create(o.prototype),e.prototype.constructor=e,t(e,o)}
